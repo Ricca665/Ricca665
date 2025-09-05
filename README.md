@@ -1,6 +1,6 @@
 Hi there!
 
-I am Ricca665 (nicknamed also riccx1000), i really like developing in python.
+I am Ricca665 (nicknamed also riccx1000), i really like developing in python and GML.
 
 Current projects: PTSaveEditor
 
