@@ -6,4 +6,4 @@ Current projects: PTSaveEditor
 
 [![riccx1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricca665&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![balls]https://img.shields.io/badge/balls-blue]
+![balls]https://img.shields.io/badge/balls-blue
